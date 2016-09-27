@@ -1,0 +1,14 @@
+
+
+TODO:
+- change touch controls to be touch+drag left/right
+- remove DOM buttons, html level should be empty, everything comes from level.js
+- add try-again screen
+- link to top scores in gamecenter
+- link to remove ads
+- ads in between plays
+- make it more 'levelable' so levels can be loaded/unloaded
+- iterate
+
+
+
